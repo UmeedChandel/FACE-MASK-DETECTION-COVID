@@ -1,4 +1,4 @@
-# FACE-MASK-DETECTION-COVID
+# FACE MASK DETECTION COVID PROJECT
 Trained a model to detect mask using datasets to make predictions using:
 1. **TensorFlow**: free and open-source software library for machine learning.
 1. **Keras**: provides an interface for the TensorFlow library.(also used _MobileNetV2_ as convolutional neural network)
